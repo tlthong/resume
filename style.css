@@ -8,7 +8,7 @@ html {
 
 #main {
     background-image: linear-gradient(to right, #3f4142,#20323b);
-    min-height: 200vh;
+    min-height: 100vh;
     color: #b5e1f7d7;
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
