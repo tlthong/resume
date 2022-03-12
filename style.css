@@ -42,7 +42,7 @@ html {
 .button-change-icon_light {
     display: none;
     position: absolute;
-    top: -2px;
+    top: 0;
     left: 0;
     z-index: 3;
     border-radius: 50%;
@@ -51,7 +51,7 @@ html {
 .button-change-icon_dark {
     display: block;
     position: absolute;
-    top: -2px;
+    top: 0;
     right: 0;
     z-index: 3;
     border-radius: 50%;
